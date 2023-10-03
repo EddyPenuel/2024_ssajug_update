@@ -1,4 +1,8 @@
 /********** Template CSS **********/
+body{
+    height:100vh;
+}
+
 :root {
     --primary: #3240c3;
     --light: #F6F7F8;
@@ -734,7 +738,13 @@ marquee,
 
    .ptext{
     color: white;
-
    }
+
+   /*index css*/
+    
+   .indexHistory {
+    text-align:justify;
+
+}
 
  
