@@ -750,5 +750,16 @@ marquee,
         text-align: center;
     }
 
-
+/* news page css*/
    
+@media screen and (max-width: 990px){
+    
+    .newMarg {
+        padding: 0px;
+        margin-bottom: 0px;
+    }
+       
+    .newMini {
+        margin-top: 0px;         
+    }    
+}
