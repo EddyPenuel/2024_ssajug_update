@@ -294,6 +294,11 @@ marquee,
     color: var(--light);
 }
 
+.new_book {
+    font-style: italic;
+    color: grey;
+}
+
 
 /*** About ***/
 @media (min-width: 992px) {
